@@ -616,7 +616,6 @@ art_cc_defaults {
             },
         },
     },
-    whole_program_vtables: true, // Requires LTO
 }
 
 // Release version of the ART runtime library.
